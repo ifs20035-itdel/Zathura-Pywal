@@ -2,7 +2,7 @@
 
 # Set a path for local binaries
 # add this to your path
-BINPATH=$HOME/.local/bin
+BINPATH=/home/michael/.local/bin
 
 # make sure this path exists
 mkdir -p "$BINPATH"
